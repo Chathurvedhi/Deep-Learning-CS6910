@@ -7,3 +7,14 @@ Weight_init : Xavier -> Decided
 Lower Learning Rates
 Lower beta1/beta values
 Lesser number of hidden layers
+
+## Sweep 2:
+Actvations : Sigmoid removed
+Optimizers : RMSprop removed
+Higher epochs have better chances
+beta2 = 0.999 when sigmoid removed
+Lesser number of Hidden Layers have better Accuracy
+batch size, weight decay, layer size, epsilon less significance
+
+## Sweep 3: 
+Final Run with more values of learning rate, epoch
