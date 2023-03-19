@@ -19,3 +19,7 @@ weight decay, layer size, epsilon less significance
 
 ## Sweep 3: 
 Final Run with more values of learning rate, epoch and batch sizes
+Best LR : 0.001, 0.0001
+Best Epochs: 30, 40
+Best Batch Size: 128, 256
+Best No of Layers: 3,4 (Hidden + 1) 
